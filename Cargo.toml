@@ -1,0 +1,11 @@
+[package]
+name = "graduality"
+version = "0.1.0"
+authors = ["Philipp Emanuel Weidmann <pew@worldwidemann.com>"]
+description = "Create stunning screensavers from simple configuration files"
+repository = "https://github.com/p-e-w/graduality"
+readme = "README.md"
+license = "GPL-3.0-or-later"
+edition = "2021"
+
+[dependencies]
