@@ -586,8 +586,11 @@ dependencies = [
  "csscolorparser",
  "env_logger",
  "log",
+ "phf",
  "pollster",
+ "serde",
  "simple-easing",
+ "toml",
  "wgpu",
  "winit",
 ]

@@ -2,6 +2,7 @@
 // Copyright (C) 2022  Philipp Emanuel Weidmann <pew@worldwidemann.com>
 
 mod configuration;
+mod easing;
 mod state;
 
 use wgpu::SurfaceError;
