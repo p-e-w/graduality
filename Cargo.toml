@@ -14,7 +14,7 @@ env_logger = "0.9.1"
 pollster = "0.2.5"
 winit = "0.27.5"
 wgpu = "0.14.0"
-bytemuck = { version = "1.12.2", features = ["derive"] }
+bytemuck = { version = "1.12.3", features = ["derive"] }
 serde = { version = "1.0.147", features = ["derive"] }
 toml = "0.5.9"
 csscolorparser = { version = "0.6.2", features = ["lab", "serde"] }
