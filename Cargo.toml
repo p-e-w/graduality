@@ -13,7 +13,7 @@ log = "0.4.17"
 env_logger = "0.9.1"
 pollster = "0.2.5"
 winit = "0.27.5"
-wgpu = "0.14.0"
+wgpu = "0.14.2"
 bytemuck = { version = "1.12.2", features = ["derive"] }
 serde = { version = "1.0.147", features = ["derive"] }
 toml = "0.5.9"
