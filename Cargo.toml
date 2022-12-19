@@ -16,7 +16,7 @@ winit = "0.27.5"
 wgpu = "0.14.0"
 bytemuck = { version = "1.12.2", features = ["derive"] }
 serde = { version = "1.0.147", features = ["derive"] }
-toml = "0.5.9"
+toml = "0.5.10"
 csscolorparser = { version = "0.6.2", features = ["lab", "serde"] }
 simple-easing = "1.0.0"
 phf = { version = "0.11.1", features = ["macros"] }
